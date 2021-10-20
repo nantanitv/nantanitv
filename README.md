@@ -1,9 +1,33 @@
-# Welcome to Nantanit's GitHub!
+<head>
+  <h1 align="center">I'm Nantanit.</h1>
+</head>
 
-- I'm pursuing a Bachelor of Engineering at Chulalongkorn University.
-- Currently learning JAVA, C++, and Python for my degree in Information and Communication Engineering.
-- I'm also taking in Self-Driving Car Engineering Nanodegree Program from Udacity
-- Looking forward to learning more skills for Cybersecurity, Software Engineering, and Computer Networking.
-- Find my portfolio at: [nantan.it](http://nantan.it/)
-- Find me on [LinkedIn](https://www.linkedin.com/in/nantanit/)
-- Reach me out: me@nantanit.com
+<p align="center">
+  <i>I am a third-year student pursuing a B.Eng. in Information and Communication Engineering.</i>
+</p>
+
+<p align="center">
+  Comfortable writing in <code>C++</code>, <code>Python</code>, and <code>Java</code>
+</p>
+
+<p align="center">
+  Sharpening my skills in <code>JavaScript</code> and <code>PostgreSQL</code>
+</p>
+
+<p align="center">
+  Interested in Computer Networking, Autonomous Driving, and Software Engineering
+</p>
+
+---
+
+<h3 align="center">
+  <b>
+    Contact me: me@nantanit.com | Learn more: 
+    <a href=http://nantan.it>
+      Portfolio
+    </a> — 
+    <a href=https://www.linkedin.com/in/nantanit>
+      LinkedIn
+    </a>
+  </b>
+</h3>
