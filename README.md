@@ -7,11 +7,15 @@
 </p>
 
 <p align="center">
-  Comfortable writing in <code>C++</code>, <code>Python</code>, and <code>Java</code>
+  Comfortable writing in <b>C++</b>, <b>Python</b>, and <b>Java</b>
 </p>
 
 <p align="center">
-  Sharpening my skills in <code>JavaScript</code> and <code>PostgreSQL</code>
+  Also sharpening my skills in <code>JavaScript</code> and <code>PostgreSQL</code>
+</p>
+
+<p align="center">
+  Have been working with <code>OpenCV</code>, <code>TensorFlow</code>, and <code>Keras</code>
 </p>
 
 <p align="center">
