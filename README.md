@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-  Also sharpening my skills in <code>JavaScript</code> and <code>PostgreSQL</code>
+  Also sharpening my skills in <b>JavaScript</b> and <b>PostgreSQL</b>
 </p>
 
 <p align="center">
-  Have been working with <code>OpenCV</code>, <code>TensorFlow</code>, and <code>Keras</code>
+  Have been working with <b>OpenCV</b>, <b>TensorFlow</b>, and <b>Keras</b>
 </p>
 
 <p align="center">
-  Interested in Computer Networking, Autonomous Driving, and Software Engineering
+  Interested in Computer Networking, Cybersecurity, Autonomous Driving, and Software Engineering
 </p>
 
 ---
