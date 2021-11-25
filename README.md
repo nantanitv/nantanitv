@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Also sharpening my skills in <b>JavaScript</b> and <b>PostgreSQL</b>
+  Also sharpening my skills in <b>JavaScript</b>, <b>C</b>, <b>C#</b>, and <b>PostgreSQL</b>
 </p>
 
 <p align="center">
