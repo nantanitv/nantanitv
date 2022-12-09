@@ -3,7 +3,7 @@
 </head>
 
 <p align="center">
-  <i>I am a third-year student pursuing a B.Eng. in Information and Communication Engineering.</i>
+  <i>I am a senior-year student pursuing a B.Eng. in Information and Communication Engineering.</i>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Also sharpening my skills in <b>JavaScript</b>, <b>C</b>, <b>C#</b>, and <b>PostgreSQL</b>
+  Also sharpening my skills in <b>JavaScript</b>, <b>C</b>, <b>C#</b>, and <b>Go</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Interested in Computer Networking, Cybersecurity, Autonomous Driving, and Software Engineering
+  Interested in Information Security, Application Security, and DevSecOps
 </p>
 
 ---
